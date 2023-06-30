@@ -1,0 +1,13 @@
+{
+    "name": "ucph_sys_saveclose",
+    "version": "1.0.0",
+    "description": "TYPO3 extension \"Add Save close button\" ",
+    "keywords": [
+        "TYPO3",
+        "Bootstrap",
+        "PHP",
+        "JavaScript"
+    ],
+    "author": "Nanna Ellegaard",
+    "license": "MIT"
+}
