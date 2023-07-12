@@ -8,7 +8,7 @@
  */
 
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'UCPH save close button',
+    'title' => 'UCPH TYPO3 save close button',
     'description' => 'Adds save and close button to all the TYPO3 content elements',
     'category' => 'templates',
     'constraints' => [

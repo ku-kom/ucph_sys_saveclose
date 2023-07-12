@@ -1,4 +1,4 @@
-TYPO3 extension "UCPH Save close button"
+TYPO3 extension "UCPH TYPO3 save close button"
 ==============================================================
 
 ## "Save and close" button
