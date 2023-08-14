@@ -12,8 +12,6 @@ use TYPO3\CMS\Backend\Template\Components\Buttons\InputButton;
 /**
  * Add an extra save and close button at the end of content elements
  *
- * Class SaveButtonHook
- * @package UniversityOfCopenhagen\UcphSysSaveClose\Hooks
  */
 class SaveCloseHook
 {
